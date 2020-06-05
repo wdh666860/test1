@@ -1,0 +1,22 @@
+#include "playground.h"
+#include <QPaintEvent>
+#include <QPainter>
+#include <QPixmap>
+#include "mybutton.h"
+
+playground::playground(QWidget *parent) : QMainWindow(parent)
+{
+    this->setFixedSize(900,650);
+    Mybutton *settower = new Mybutton();
+
+}
+void playground::paintEvent(QPaintEvent *)
+{
+    QPainter painter(this);
+    QPixmap pix(":/final.jpg");
+    painter.drawPixmap(0,0,this->width(),this->height(),pix);
+}
+void playground::set_tower()
+{
+
+}
