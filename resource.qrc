@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Bg.png</file>
+        <file>image/bullet.png</file>
+        <file>image/Default.png</file>
+        <file>image/enemy.png</file>
+        <file>image/icon_gold.png</file>
+        <file>image/icon_HP.png</file>
+        <file>image/open_spot.png</file>
+        <file>image/tower.png</file>
+        <file>config/Info.plist</file>
+        <file>config/TowersPosition.plist</file>
+        <file>config/Waves.plist</file>
+        <file>image/background.jpg</file>
+        <file>image/bullet1.png</file>
+        <file>image/bullet2.png</file>
+        <file>image/life.png</file>
+        <file>image/loss.jpg</file>
+        <file>image/money.png</file>
+        <file>image/startbutton.jpg</file>
+        <file>image/startpicture.jpg</file>
+        <file>image/tower1_1.png</file>
+        <file>image/tower1_2.png</file>
+        <file>image/tower2_1.png</file>
+        <file>image/tower2_2.png</file>
+        <file>image/victory.jpg</file>
+        <file>image/enemy1.png</file>
+        <file>image/enemy2.png</file>
+        <file>image/enemy3.png</file>
+        <file>image/enemy4.png</file>
+        <file>image/enemy5.png</file>
+    </qresource>
+</RCC>
